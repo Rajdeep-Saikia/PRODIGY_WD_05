@@ -6,6 +6,7 @@
 📚 What I Learned:
 
 During this project, I got practical experience in:
+
 🔹 API integration using fetch() in JavaScript
 Dealing with JSON and updating the DOM on the fly
 🔹 fetching user location using the browser geolocation
